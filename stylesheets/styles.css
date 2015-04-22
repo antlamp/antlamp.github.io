@@ -1,18 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
-div {
-    height: auto;
-    width: auto;
-}
-image { 
+
+.image { 
     background-image:cover;
-    display: inline;
    position: relative;
    max-width: 100%;
    height: auto;
    padding: .5%;
 }
-h2 {
+.h2 {
     
   position:relative;
     text-align:right;
