@@ -11,8 +11,8 @@
 
 .image { 
    position: relative; 
-   width: 50%;
-   height: 50%;/* for IE 6 */
+   width: 500px;
+   height: 750px;/* for IE 6 */
 }
 
 h2 { 
