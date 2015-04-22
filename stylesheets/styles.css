@@ -3,7 +3,7 @@
 image { 
     display: inline;
    position: relative;
-   max-width: 30%;
+   max-width: 100%;
    height: auto;
    padding: .5%;
 }
