@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 image { 
-   position: relative;
+   position: static;
    width: 400px;
    height: 550px;
    padding: 30px;
