@@ -7,7 +7,7 @@ image {
    padding: 30px;
 }
 h2 {
-   position: relative;
+   position: static;
    top: 455px;
   left: 235px; 
   padding:0px;
