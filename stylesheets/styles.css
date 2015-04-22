@@ -4,13 +4,13 @@ image {
    position: relative;
    width: 30%;
    height: 50%;
-   padding: 30px;
+   padding: .5%;
 }
 h2 {
    position: absolute;
-   top: 1000px;
-   left: 1000px;
-  font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+   top: 20%;
+   left: 50%;
+  font:14pt/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
   
   font-weight:300;
