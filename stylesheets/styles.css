@@ -9,7 +9,7 @@ image {
 h2 {
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
-   position: absolute;
+   position: relative;
    right: 200px;
    
    top: 200px; 
