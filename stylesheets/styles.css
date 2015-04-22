@@ -7,7 +7,7 @@ image {
    padding: 30px;
 }
 h2 {
-   position: static;
+   position: absolute;
    top: 20px;
    left: 20px;
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
