@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 image { 
-   display: inline;
+    display: inline;
    position: relative;
    max-width: 30%;
    height: auto;
@@ -9,7 +9,7 @@ image {
 }
 h2 {
    position: absolute;
-   display: inline;
+    display: inline;
    top: 41%;
    left: 19%;
   font:14/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
