@@ -15,5 +15,6 @@ h2 {
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
   outline: #383838;
+  font-style: bold;
   font-weight:300;
 }
