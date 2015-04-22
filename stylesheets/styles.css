@@ -6,8 +6,9 @@ image {
    height: 550px;
    padding: 30px;
 }
-h2 { 
-   left: 270; 
+h2 {
+   position: absolute;
+  left: 270; 
   padding:50px;
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
