@@ -19,4 +19,8 @@ h2 {
    top: 200px; 
    left: 0; 
    width: 100%; 
+  padding:50px;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#ffffff;
+  font-weight:300;
 }
