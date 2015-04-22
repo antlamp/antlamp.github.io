@@ -7,7 +7,7 @@
 }
 */
 h2 { 
-   position: relative; 
+   position: absolute; 
    top: 30px; 
    left: 0; 
    width: 100%; 
