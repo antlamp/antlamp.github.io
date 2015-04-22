@@ -7,7 +7,6 @@ image {
    padding: 30px;
 }
 h2 {
-  position: static;
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
   outline: #383838;
