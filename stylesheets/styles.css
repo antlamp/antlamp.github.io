@@ -1,18 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
-/*body {
-  padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#ffffff;
-  font-weight:300;
-}*/
-
-
 
 .image { 
    position: relative; 
-   width: 500px;
-   height: 750px;/* for IE 6 */
+   width: 100px;
+   height: 100px;
 }
 
 h2 { 
