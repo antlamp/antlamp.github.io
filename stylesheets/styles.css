@@ -12,6 +12,6 @@ h2 {
   outline: #383838;
    position: absolute; 
    top: 200px; 
-   left: 200; 
+   right: 200; 
   font-weight:300;
 }
