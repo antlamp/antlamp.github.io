@@ -2,14 +2,14 @@
 
 image { 
    position: relative;
-   width: 100%;
-   height: 100%;
+   width: 30%;
+   height: 50%;
    padding: .5%;
 }
 h2 {
    position: absolute;
-   top: 20%;
-   left: 50%;
+   top: 100%;
+   left: 100%;
   font:14/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
   
