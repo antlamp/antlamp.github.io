@@ -9,12 +9,12 @@
 h2 { 
    position: absolute; 
    top: 30px; 
-   left: 0; 
+   right: 0; 
    width: 100%; 
   padding:50px;
   font:50px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
   outline: #383838;
-  font-style: bold;
+  f
   font-weight:300;
 }
