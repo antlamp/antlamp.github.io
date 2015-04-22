@@ -4,6 +4,7 @@ image {
    position: relative;
    width: 400px;
    height: 550px;
+   padding: 50px;
 }
 h2 { 
    left: 270; 
