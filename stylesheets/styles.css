@@ -1,11 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
-/*.image { 
+image { 
    position: relative;
    width: 250px;
    height: 250px;
 }
-*/
 h2 { 
    position: absolute; 
    top: 500px; 
