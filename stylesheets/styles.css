@@ -5,6 +5,7 @@ div {
     width: auto;
 }
 image { 
+    background-image:cover;
     display: inline;
    position: relative;
    max-width: 100%;
